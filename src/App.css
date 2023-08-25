@@ -1,0 +1,15 @@
+.post-box{
+  height: 300px;
+  width: 300px;
+  background-color: gray;
+}
+.post-title{
+  display: flex;
+
+}
+.post-text{
+  display: flex;
+}
+.post-btn{
+  display: flex;
+}
